@@ -1,0 +1,13 @@
+.Head{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-between;
+}
+
+.mainTitle{
+    font-size: 50px;
+    color:black;
+    font-weight: 1;
+}
